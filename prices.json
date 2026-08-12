@@ -340,10 +340,23 @@
     "region": "Москва",
     "country": "Россия",
     "price": 15500,
-    "answers": 1,
+    "answers": 2,
     "min_price": 15500,
     "max_price": 15500,
     "entries": [
+      {
+        "submission_id": "355c819a-8676-4385-b54e-052bf14798a4",
+        "author": "Julska",
+        "name": "Москва",
+        "region": "Москва",
+        "country": "Россия",
+        "price": 15500,
+        "comment": "Проверка формы — удалить",
+        "when": "Сегодня",
+        "volume": "40 л",
+        "created_at": "2026-08-12T23:16:23.911Z",
+        "_createdAt": 1786576583911
+      },
       {
         "author": "Полина Монина",
         "name": "Москва",
