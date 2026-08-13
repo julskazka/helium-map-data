@@ -790,11 +790,24 @@
     "name": "Краснодар",
     "region": "Краснодарский край",
     "country": "Россия",
-    "price": 17050,
-    "answers": 2,
+    "price": 17567,
+    "answers": 3,
     "min_price": 16600,
-    "max_price": 17500,
+    "max_price": 18600,
     "entries": [
+      {
+        "submission_id": "0ea4ea15-ac72-409b-9b88-97a3bd8ebc58",
+        "author": "Ирина",
+        "name": "Краснодар",
+        "region": "Краснодарский край",
+        "country": "Россия",
+        "price": 18600,
+        "comment": "Магазин «Праздник Мастер»: 40 л.- 18600 руб (140 атм), 5500 руб - 10 л. (140 атм).",
+        "when": "Сегодня",
+        "volume": "40 л",
+        "created_at": "2026-08-13T15:17:38.058Z",
+        "_createdAt": 1786634258058
+      },
       {
         "author": "Elena",
         "name": "Краснодар",
