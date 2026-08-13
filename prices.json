@@ -1115,5 +1115,36 @@
       0,
       -80
     ]
+  },
+  {
+    "name": "Уфа",
+    "region": "Башкортостан",
+    "country": "Россия",
+    "price": 17500,
+    "answers": 1,
+    "min_price": 17500,
+    "max_price": 17500,
+    "entries": [
+      {
+        "submission_id": "3e89470d-6654-40ff-b68f-f5747a2c89c3",
+        "author": "Пользователь",
+        "name": "Уфа",
+        "region": "Башкортостан",
+        "country": "Россия",
+        "price": 17500,
+        "comment": "В наличии",
+        "when": "Сегодня",
+        "volume": "40 л",
+        "created_at": "2026-08-13T15:37:18.920Z",
+        "_createdAt": 1786635438920
+      }
+    ],
+    "aliases": [],
+    "lat": 54.7261409,
+    "lon": 55.947499,
+    "offset": [
+      0,
+      -80
+    ]
   }
 ]
