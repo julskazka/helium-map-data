@@ -1314,5 +1314,36 @@
       0,
       -80
     ]
+  },
+  {
+    "name": "Петрозаводск",
+    "region": "Карелия",
+    "country": "Россия",
+    "price": 20000,
+    "answers": 1,
+    "min_price": 20000,
+    "max_price": 20000,
+    "entries": [
+      {
+        "submission_id": "b5a0871e-26ce-4c23-98e8-da16845380bf",
+        "author": "Пользователь",
+        "name": "Петрозаводск",
+        "region": "Карелия",
+        "country": "Россия",
+        "price": 20000,
+        "comment": "",
+        "when": "Сегодня",
+        "volume": "40 л",
+        "created_at": "2026-08-13T19:07:22.623Z",
+        "_createdAt": 1786648042623
+      }
+    ],
+    "aliases": [],
+    "lat": 61.789221,
+    "lon": 34.3688041,
+    "offset": [
+      0,
+      -80
+    ]
   }
 ]
