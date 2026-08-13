@@ -1071,5 +1071,36 @@
       0,
       -80
     ]
+  },
+  {
+    "name": "Альметьевск",
+    "region": "Татарстан",
+    "country": "Россия",
+    "price": 19000,
+    "answers": 1,
+    "min_price": 19000,
+    "max_price": 19000,
+    "entries": [
+      {
+        "submission_id": "154122ab-8961-4a26-90ab-17b2ed7dd5c7",
+        "author": "Пользователь",
+        "name": "Альметьевск",
+        "region": "Татарстан",
+        "country": "Россия",
+        "price": 19000,
+        "comment": "",
+        "when": "Сегодня",
+        "volume": "40 л",
+        "created_at": "2026-08-13T14:49:20.369Z",
+        "_createdAt": 1786632560369
+      }
+    ],
+    "aliases": [],
+    "lat": 54.9005008,
+    "lon": 52.2963777,
+    "offset": [
+      0,
+      -80
+    ]
   }
 ]
