@@ -978,5 +978,36 @@
       58,
       -78
     ]
+  },
+  {
+    "name": "Ставрополь",
+    "region": "Ставропольский край",
+    "country": "Россия",
+    "price": 16000,
+    "answers": 1,
+    "min_price": 16000,
+    "max_price": 16000,
+    "entries": [
+      {
+        "submission_id": "a424477d-2c28-4589-a17c-b5e9e49aaf3b",
+        "author": "@finlara_ru",
+        "name": "Ставрополь",
+        "region": "Ставропольский край",
+        "country": "Россия",
+        "price": 16000,
+        "comment": "",
+        "when": "Сегодня",
+        "volume": "40 л",
+        "created_at": "2026-08-13T03:24:19.218Z",
+        "_createdAt": 1786591459218
+      }
+    ],
+    "aliases": [],
+    "lat": 45.0433245,
+    "lon": 41.9690934,
+    "offset": [
+      0,
+      -80
+    ]
   }
 ]
