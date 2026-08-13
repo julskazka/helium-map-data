@@ -1252,5 +1252,36 @@
       0,
       -80
     ]
+  },
+  {
+    "name": "Донецк",
+    "region": "Ростовская область",
+    "country": "Россия",
+    "price": 24000,
+    "answers": 1,
+    "min_price": 24000,
+    "max_price": 24000,
+    "entries": [
+      {
+        "submission_id": "362abd73-cef5-4c6a-ba4c-168bc1ce0901",
+        "author": "Юлия",
+        "name": "Донецк",
+        "region": "Ростовская область",
+        "country": "Россия",
+        "price": 24000,
+        "comment": "",
+        "when": "На этой неделе",
+        "volume": "40 л",
+        "created_at": "2026-08-13T17:43:14.067Z",
+        "_createdAt": 1786642994067
+      }
+    ],
+    "aliases": [],
+    "lat": 48.3382864,
+    "lon": 39.9509488,
+    "offset": [
+      0,
+      -80
+    ]
   }
 ]
