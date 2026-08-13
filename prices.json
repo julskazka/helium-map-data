@@ -1040,5 +1040,36 @@
       0,
       -80
     ]
+  },
+  {
+    "name": "Курск",
+    "region": "Курская область",
+    "country": "Россия",
+    "price": 20000,
+    "answers": 1,
+    "min_price": 20000,
+    "max_price": 20000,
+    "entries": [
+      {
+        "submission_id": "2372201e-eb81-430e-96e5-3fad48dcd96e",
+        "author": "Пользователь",
+        "name": "Курск",
+        "region": "Курская область",
+        "country": "Россия",
+        "price": 20000,
+        "comment": "",
+        "when": "На этой неделе",
+        "volume": "40 л",
+        "created_at": "2026-08-13T14:33:55.661Z",
+        "_createdAt": 1786631635661
+      }
+    ],
+    "aliases": [],
+    "lat": 51.7270357,
+    "lon": 36.192248,
+    "offset": [
+      0,
+      -80
+    ]
   }
 ]
