@@ -1407,5 +1407,36 @@
       0,
       -80
     ]
+  },
+  {
+    "name": "Липецк",
+    "region": "Липецкая область",
+    "country": "Россия",
+    "price": 17000,
+    "answers": 1,
+    "min_price": 17000,
+    "max_price": 17000,
+    "entries": [
+      {
+        "submission_id": "a6beb005-4d05-4356-b4d6-2af19e456ae3",
+        "author": "Baloo",
+        "name": "Липецк",
+        "region": "Липецкая область",
+        "country": "Россия",
+        "price": 17000,
+        "comment": "Есть в наличии",
+        "when": "Указать дату",
+        "volume": "40 л",
+        "created_at": "2026-08-13T21:06:02.741Z",
+        "_createdAt": 1786655162741
+      }
+    ],
+    "aliases": [],
+    "lat": 52.6051488,
+    "lon": 39.5963775,
+    "offset": [
+      0,
+      -80
+    ]
   }
 ]
