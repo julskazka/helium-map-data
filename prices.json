@@ -521,11 +521,24 @@
     "name": "Тольятти",
     "region": "Самарская область",
     "country": "Россия",
-    "price": 17000,
-    "answers": 1,
+    "price": 17100,
+    "answers": 2,
     "min_price": 17000,
-    "max_price": 17000,
+    "max_price": 17200,
     "entries": [
+      {
+        "submission_id": "3e252781-ea76-4de7-be2a-3ba1d1985c9e",
+        "author": "@podarich_tlt",
+        "name": "Тольятти",
+        "region": "Самарская область",
+        "country": "Россия",
+        "price": 17200,
+        "comment": "С доставкой",
+        "when": "Вчера",
+        "volume": "40 л",
+        "created_at": "2026-08-14T06:40:06.603Z",
+        "_createdAt": 1786689606603
+      },
       {
         "author": "Александра Shariki_tlt_komsa",
         "name": "Тольятти",
