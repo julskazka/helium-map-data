@@ -764,11 +764,24 @@
     "name": "Челябинск",
     "region": "Челябинская область",
     "country": "Россия",
-    "price": 15900,
-    "answers": 1,
+    "price": 16700,
+    "answers": 2,
     "min_price": 15900,
-    "max_price": 15900,
+    "max_price": 17500,
     "entries": [
+      {
+        "submission_id": "43ccf0ea-b7a8-42a3-8851-242391fc0fdb",
+        "author": "a_shvid",
+        "name": "Челябинск",
+        "region": "Челябинская область",
+        "country": "Россия",
+        "price": 17500,
+        "comment": "",
+        "when": "Сегодня",
+        "volume": "40 л",
+        "created_at": "2026-08-14T01:53:32.079Z",
+        "_createdAt": 1786672412079
+      },
       {
         "author": "Ольга",
         "name": "Челябинск",
